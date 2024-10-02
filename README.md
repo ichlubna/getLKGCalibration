@@ -1,2 +1,1 @@
-# getLKGCalibration
-Open-source Looking Glass 3D display calibration fetcher
+Reads the calibration data from Looking Glass (LKG) 3D display and returns them as a C++ object. Can be used for custom LKG rendering apps. Made for Linux only. Must be run as sudo to control USB. First generation displays provide their calibration directly via USB communication. Portrait model has the calibration stored on a built-in drive in a file.
