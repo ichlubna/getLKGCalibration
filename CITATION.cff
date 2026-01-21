@@ -1,12 +1,32 @@
-@article{BUT193744,
-  author="Tomáš {Chlubna} and Tomáš {Milet} and Pavel {Zemčík}",
-  title="Out-of-Focus Artifacts Mitigation and Autofocus Methods for 3D Displays",
-  journal="Visual Informatics",
-  year="2024",
-  volume="9",
-  number="1",
-  pages="31--42",
-  doi="10.1016/j.visinf.2024.12.001",
-  issn="2468-502X",
-  url="https://www.sciencedirect.com/science/article/pii/S2468502X2400069X"
-}
+cff-version: "1.2.0"
+authors:
+- family-names: Chlubna
+  given-names: Tomáš
+- family-names: Milet
+  given-names: Tomáš
+- family-names: Zemčík
+  given-names: Pavel
+doi: 10.1016/j.visinf.2024.12.001
+message: If you use this software, please cite our article in the journal Visual Informatics.
+preferred-citation:
+  authors:
+  - family-names: Chlubna
+    given-names: Tomáš
+  - family-names: Milet
+    given-names: Tomáš
+  - family-names: Zemčík
+    given-names: Pavel
+  date-published: 2024
+  doi: 10.1016/j.visinf.2024.12.001
+  issn: 2468-502X
+  issue: 1
+  journal: Visual Informatics
+  publisher:
+    name: Elsevier
+  start: 31
+  end: 42
+  title: "Out-of-Focus Artifacts Mitigation and Autofocus Methods for 3D Displays"
+  type: article
+  url: "https://www.sciencedirect.com/science/article/pii/S2468502X2400069X"
+  volume: 9
+title: "Out-of-Focus Artifacts Mitigation and Autofocus Methods for 3D Displays"
