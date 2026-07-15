@@ -44,7 +44,7 @@ class HoloCalibration
                 return os;
             }
         } ;
-        static Calibration getCalibration();
+        static Calibration getCalibration(std::string calibrationFilePath="");
 
     private:
         static constexpr int BUFFER_SIZE {255};
